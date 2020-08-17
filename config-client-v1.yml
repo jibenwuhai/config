@@ -1,0 +1,6 @@
+# 服务端口
+server:
+    port: 5001
+# 当前版本
+version:
+    message: 20200817
